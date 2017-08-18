@@ -1,0 +1,33 @@
+{
+  "name": "vgen-xbox",
+  "version": "1.0.0",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "ffi": "^2.2.0",
+    "ref": "^1.3.4",
+    "windows-elevate": "^1.0.1"
+  },
+  "description": "Node wrapper for vGenInterface (xbox) to feed xinput events to OS",
+  "main": "vgen-xbox.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeflux/vgen-xbox.git"
+  },
+  "keywords": [
+    "xinput",
+    "input",
+    "xbox",
+    "feeder",
+    "controller"
+  ],
+  "author": "Jesper Mathiason <jespermathiason@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeflux/vgen-xbox/issues"
+  },
+  "homepage": "https://github.com/Jeflux/vgen-xbox#readme"
+}
