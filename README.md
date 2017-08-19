@@ -19,5 +19,5 @@ Full example available in [demo.js](https://github.com/Jeflux/vgen-xbox/blob/mas
 # Installation
 Make sure you have the build tools for [node-ffi](https://github.com/node-ffi/node-ffi#installation). Then install with:
 ``` bash
-$ npm install https://github.com/Jeflux/vgen-xbox
+$ npm install vgen-xbox
 ```
